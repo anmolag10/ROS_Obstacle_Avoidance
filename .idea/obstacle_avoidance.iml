@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="IlluminatedCloud" version="4">
+  <component name="FacetManager">
+    <facet type="IlluminatedCloud" name="Illuminated Cloud">
+      <configuration>
+        <option name="moduleContents">
+          <ModuleContents>
+            <option name="contentSelectionType" value="SELECTED" />
+          </ModuleContents>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/CMakeFiles/gmock.dir/__/googletest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/CMakeFiles/gmock.dir/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/gtest/googlemock/CMakeFiles/gmock_main.dir/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
